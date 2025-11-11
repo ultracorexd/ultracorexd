@@ -1,6 +1,6 @@
 # Hi, I'm Igor. 👋
 ## 🎓 Education
-**Studying in the Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy** 
+**Studying in the Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy** <br>
 *Mastering ML, Deep Learning, and Data Science*
 
 ## 🛠 Technology stack
