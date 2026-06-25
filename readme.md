@@ -3,7 +3,7 @@
 AI Specialist
 ## 🎓 Education
 **Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy** 
-**ISU/Institue of Mathematics and Information Technologies/Applied Mathematics and Information Science<br>
+**ISU/Institue of Mathematics and Information Technologies/Applied Mathematics and Information Science<br>**
 
 ## 📫 Contact me
 
