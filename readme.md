@@ -2,12 +2,12 @@
 
 ## 💡**About me**<br>
 
-# **AI Specialist**
+### **AI Specialist**
 
 ## 🎓 Education
 
-# **ISU/Institute of Mathematics and Information Technologies/Applied Mathematics and Information Science**
-# **Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy**<br>
+### **ISU/Institute of Mathematics and Information Technologies/Applied Mathematics and Information Science**
+### **Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy**<br>
 
 ## 📫 Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@ultracorexd)
