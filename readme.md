@@ -10,4 +10,4 @@
 ### **IT Academy/Artificial Intelligence and Data Analysis**<br>
 
 ## 📫 Contact me
-#### **Tg: @ultracorexd**
+#### **tg: @ultracorexd**
