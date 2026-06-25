@@ -1,7 +1,7 @@
 # Hi, I'm Igor. 👋
 ## 💡**About me**<br>
 
-AI Specialist
+**AI Specialist**
 ## 🎓 Education
 **ISU/Institute of Mathematics and Information Technologies/Applied Mathematics and Information Science**
 **Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy**<br>
