@@ -1,8 +1,11 @@
 # Hi, I'm Igor. 👋
+💡About me
+AI Specialist
 ## 🎓 Education
-**Studying in the Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy** <br>
+**Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy** <br>
+**ISU/Institue of Mathematics and Information Technologies/Applied Mathematics and Information Science
 *Mastering ML, Deep Learning, and Data Science*
-
+💡
 
 ## 📫 Contact me
 
