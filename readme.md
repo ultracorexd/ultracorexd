@@ -2,7 +2,7 @@
 
 ## 💡**About me**<br>
 
-**AI Specialist**
+## **AI Specialist**
 
 ## 🎓 Education
 
