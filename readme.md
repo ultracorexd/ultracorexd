@@ -1,10 +1,10 @@
 # Hi, I'm Igor. 👋
 
-## 💡**About me**<br>
+## 💡**About me**
 
 ### **AI Specialist**
 
-## 🎓**Education**<br>
+## 🎓**Education**
 
 ### **ISU/Institute of Mathematics and Information Technologies/Applied Mathematics and Information Science**
 ### **IT Academy/Artificial Intelligence and Data Analysis**<br>
