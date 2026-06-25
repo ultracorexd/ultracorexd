@@ -2,10 +2,8 @@
 💡About me
 AI Specialist
 ## 🎓 Education
-**Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy** <br>
-**ISU/Institue of Mathematics and Information Technologies/Applied Mathematics and Information Science
-*Mastering ML, Deep Learning, and Data Science*
-💡
+**Artificial Intelligence and Data Analysis program at the EN+ Digital IT Academy** 
+**ISU/Institue of Mathematics and Information Technologies/Applied Mathematics and Information Science<br>
 
 ## 📫 Contact me
 
