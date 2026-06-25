@@ -1,5 +1,5 @@
 # Hi, I'm Igor. 👋
-💡**About me**<br>
+##💡**About me**<br>
 
 AI Specialist
 ## 🎓 Education
