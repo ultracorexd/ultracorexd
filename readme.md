@@ -2,7 +2,7 @@
 
 ## 💡**About me**
 
-### **AI Specialist, 4000 ELO CS2**
+### **AI Specialist**
 
 ## 🎓**Education**
 
